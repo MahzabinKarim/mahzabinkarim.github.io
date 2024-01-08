@@ -191,7 +191,7 @@ layout: default
 <!-- Autoronto -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://www.autodrive.utoronto.ca/"><img src="/assets/img/mazziPic.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://www.autodrive.utoronto.ca/"><img src="/assets/img/autoronto.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -537,7 +537,6 @@ layout: default
     <summary>
       <div class="innerl">
         <h2>Hierarchical Self Driving Car Motion Planner: CARLA</h2>
-        <!-- <h3>Squash Colt</h3> -->
         <h4>August 2020</h4>
       </div>
       <div class="innerr">
@@ -554,8 +553,8 @@ layout: default
     <div class="text">
       <ul>
         <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+	<li>Hey my name is Mahzabin</li>
         <li><a rel="noreferrer noopener" target="_blank" href="https://github.com/ashrafya/SelfDrivingCar"><b>View Project</b></a>  <a>, </a> <a rel="noreferrer noopener" target="_blank" href="/selfDrivingCarSpecialization/SpecializationCertificateYawarAshraf.pdf"><b>View Certificate</b></a>  </li>
-        <!-- <li><a rel="noreferrer noopener" target="_blank" href="/selfDrivingCarSpecialization/SpecializationCertificateYawarAshraf.pdf"><b>View Certificate</b></a></li> -->
       </ul>
     </div>
   </details>
