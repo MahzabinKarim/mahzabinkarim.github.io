@@ -191,7 +191,7 @@ layout: default
 <!-- Autoronto -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="https://www.autodrive.utoronto.ca/"><img src="/assets/img/autoronto.png" 
+    <a rel="noreferrer noopener" target="_blank" href="https://www.autodrive.utoronto.ca/"><img src="/assets/img/mazziPic.png" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
