@@ -252,7 +252,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Lead a team of 4 to assess site characterization, problem definition, cost estimation, build timeline for station construction, create CAD drawings with dimensions that align with city standards, and use Plaxis 2D to model</li>
+        <li>Proposed the subway station construction project costing $800 million, scheduled to be completed in 1.5 years.</li>
+        <li>Lead a team of 4 to assess site characterization, problem definition, cost estimation, build timeline for station construction, create CAD drawings with dimensions that align with city standards, and use Plaxis 2D to model.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/ErindaleSubwayStation.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
@@ -285,7 +286,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>With a focus on construction engineering and management, the project focuses on site planning, equipement selection and productivity, and decision making. Involves quantifying and cost estimating for earthwork, paving, lighting system, while adhering to all safety standards.</li>
+        <li>This report summarises the design procedure, layout, and analysis of municipal services for this development, all of which are in accordance with the Town of Adamsville Design Criteria and Standards Model.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/AdmsvilleVillage_StormAndServices.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
@@ -319,7 +320,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+        <li>The report summarises the demand and capacity checks that were carried out to design a pedestrian bridge.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/stockMarketPrediction/stockMarketPrediction.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
@@ -353,7 +354,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+        <li>With a focus on construction engineering and management.</li>
+        <li>The project involves site planning, equipment selection and productivity, decision making, quantifying and cost estimating for earthwork, paving, lighting system, while adhering to all safety standards and all relevant constraints.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/InvasiveDuctalCarcinoma/APS360_IDC_Report.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
