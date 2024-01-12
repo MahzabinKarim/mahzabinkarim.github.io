@@ -77,8 +77,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working on a decentralized market-based task allocation algorithm to optimize trajectory planning
-        for <b>heterogeneous Multi-Robot Systems</b> while leveraging a dynamic probabilistic lost person's model at Professor Beno Benhabib's Computer Integrated Manufacturing Lab (CIMLab).</li>
+        <li>Working in the Concrete Materials Laboratories on a quality assurance project regarding the construction of the Gordie Howe International Bridge in Windsor.</li>
+        <li>Ensure safety protocols while preparing concrete samples for digital image processing. Perform air void analysis using BubbleCounter software. Submit results prepared through Excel to Golder Associates Inc.</li>
       </ul>
     </div>
   </details>
@@ -110,7 +110,11 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Setup and executed stressful memory tests and performed careful <b>GDDR6</b> chip tuning from multiple memory vendors based on a deep analysis of characterization results. </li>
+        <li>Managed a wide range of engineering and maintenance projects; provided cost estimates, developed business cases, prepared conceptual designs, engaged consultants, worked with procurement to issue purchase orders, supervised construction, controlled costs, commissioned, and project handover.</li>
+        <li>Coordinated and reviewed (in-house, suppliers or consultant) work plans against defined project scope, contract requirements, budget and schedule. Assured contract management through constant follow up and supervisory.</li>
+        <li>Maintained project budget files and updated cost tracking logs.</li>
+        <li>Coordinated the preparation of weekly and monthly reports related to future project requirements, workload forecasts, and performance measurement reporting. Optimised operational reporting to improve KPI analysis.</li>
+        <li>Presented monthly project updates to a larger team through Powerpoint, highlighting updated MS Project schedule and Excel cost tracking logs, upcoming action items, and any risks to schedule.</li>
       </ul>
     </div>
   </details>
@@ -143,8 +147,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Led multiple client engagements, successfully secured an enterprise client contract worth over <b>35,000 CAD</b> for API documentation & developer environment solutions tailored to enhance <b>developer workflows</b> & <b>client engagement</b>.</li>
-        <li>Steered Typebrite to specialize in transforming raw APIs into engaging documentation using <b>Large Language Models</b> and git styled <b>developer workflows</b> and collaborative documentation generation.</li>
+        <li>Lead 4 weekly virtual classes for 40 incoming engineering students, covering the basics of chemistry.</li>
+        <li>Demonstrated professionalism, strong organisational skills, sound judgement,and worked independently.</li>
       </ul>
     </div>
   </details>
@@ -179,7 +183,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Developed a noise modelling technique for the car’s camera by building a custom <b>Generative Adversarial Network (GAN)</b> to accurately map from noisy images to clean images via a <b>Denoising Convolutional Neural Network (DnCNN)</b></li>
+        <li>Supported the development of math skills for children from Preschool to High School.</li>
+        <li>Instructed one-on-one sessions for the higher advanced levels of the math program.</li>
       </ul>
     </div>
   </details>
@@ -211,7 +216,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Led multiple client engagements, successfully secured an enterprise client contract worth over <b>35,000 CAD</b> for API documentation & developer environment solutions tailored to enhance <b>developer workflows</b> & <b>client engagement</b>.</li>
+        <li>Lead 2 weekly virtual classes for 50 incoming engineering students, covering the basics of calculus and vectors.</li>
+        <li>Demonstrated professionalism, strong organisational skills, sound judgement,and worked independently.</li>
       </ul>
     </div>
   </details>
