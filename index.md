@@ -110,7 +110,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Managed a wide range of engineering and maintenance projects; provided <b>cost estimates<\b>, developed <b>business cases</b>, prepared <b>conceptual designs, engaged consultants</b>, worked with procurement to issue <b>purchase orders, supervised construction, controlled costs, commissioned</b>, and <b>project handover</b>.</li>
+        <li>Managed a wide range of engineering and maintenance projects; provided <b>cost estimates</b>, developed <b>business cases</b>, prepared <b>conceptual designs, engaged consultants</b>, worked with procurement to issue <b>purchase orders, supervised construction, controlled costs, commissioned</b>, and <b>project handover</b>.</li>
         <li>Coordinated and reviewed (in-house, suppliers or consultant) work plans against defined project scope, contract requirements, budget and schedule. Assured <b>contract management</b> through constant follow up and supervisory.</li>
         <li>Maintained <b>project budget files</b> and updated <b>cost tracking logs</b>.</li>
         <li>Coordinated the preparation of weekly and monthly reports related to future project requirements, workload forecasts, and performance measurement reporting. Optimised operational reporting to improve KPI analysis.</li>
