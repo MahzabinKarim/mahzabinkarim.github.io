@@ -162,9 +162,9 @@ layout: default
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>Autoronto</h2>
-        <h3>Simulation and Deep Learning Accelaration Team Member</h3>
-        <h4>January 2021 - September 2022</h4>
+        <h2>Kumon</h2>
+        <h3>Teaching Assisstant</h3>
+        <h4>March 2021 - June 2021</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
