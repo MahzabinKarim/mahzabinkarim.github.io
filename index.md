@@ -358,7 +358,7 @@ layout: default
 
 ---
 
-<!-- Blood Clot Detection -->
+<!-- Design of Erindale Subway Station -->
 <div class="row">
   <div class="columnl">
     <a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/FinalReport.pdf"><img src="/assets/img/BrainBlankAMI.png" 
@@ -367,7 +367,7 @@ layout: default
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>AMINet - Blood Clot Detection</h2>
+        <h2>AMINet - Design of Erindale Subway Station</h2>
         <!-- <h3>Squash Colt</h3> -->
         <h4>December 2023</h4>
       </div>
@@ -384,7 +384,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+        <li>Lead a team of 4 to assess site characterization, problem definition, cost estimation, build timeline for station construction, create CAD drawings with dimensions that align with city standards, and use Plaxis 2D to model</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/FinalReport.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
@@ -392,7 +392,7 @@ layout: default
 </div>
 
 
-<!-- PRaxis 3 - Recycle Right -->
+<!-- MTO Parking Lot Proposal -->
 <div class="row">
   <div class="columnl">
     <a rel="noreferrer noopener" target="_blank" href="/recycleRight/RecylceRight.pdf"><img src="/assets/img/recycleRight.png" 
@@ -403,7 +403,7 @@ layout: default
       <div class="innerl">
         <h2>Recycle Right</h2>
         <!-- <h3>Squash Colt</h3> -->
-        <h4>December 2021</h4>
+        <h4>December 2023</h4>
       </div>
       <div class="innerr">
         <div class="summary-chevron-up">
@@ -418,7 +418,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Achieved notable success by reading the <b>#8</b> rank in Pakistan in the <b>BU15</b> category as a competitive squash player.</li>
+        <li>With a focus on construction engineering and management, the project focuses on site planning, equipement selection and productivity, and decision making. Involves quantifying and cost estimating for earthwork, paving, lighting system, while adhering to all safety standards.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/recycleRight/RecylceRight.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
