@@ -77,8 +77,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Working in the Concrete Materials Laboratories on a quality assurance project regarding the construction of the Gordie Howe International Bridge in Windsor.</li>
-        <li>Ensure safety protocols while preparing concrete samples for digital image processing. Perform air void analysis using BubbleCounter software. Submit results prepared through Excel to Golder Associates Inc.</li>
+        <li>Working in the Concrete Materials Laboratories on a <b>quality assurance</b> project regarding the construction of the Gordie Howe International Bridge in Windsor.</li>
+        <li>Ensure safety protocols while <b>preparing concrete samples</b> for digital image processing. Perform <b>air void analysis</b>b> using BubbleCounter software. Submit results prepared through Excel to <b>Golder Associates Inc</b>b>.</li>
       </ul>
     </div>
   </details>
@@ -110,11 +110,11 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Managed a wide range of engineering and maintenance projects; provided cost estimates, developed business cases, prepared conceptual designs, engaged consultants, worked with procurement to issue purchase orders, supervised construction, controlled costs, commissioned, and project handover.</li>
-        <li>Coordinated and reviewed (in-house, suppliers or consultant) work plans against defined project scope, contract requirements, budget and schedule. Assured contract management through constant follow up and supervisory.</li>
-        <li>Maintained project budget files and updated cost tracking logs.</li>
+        <li>Managed a wide range of engineering and maintenance projects; provided <b>cost estimates<\b>, developed <b>business cases</b>, prepared <b>conceptual designs, engaged consultants</b>, worked with procurement to issue <b>purchase orders, supervised construction, controlled costs, commissioned</b>, and <b>project handover</b>.</li>
+        <li>Coordinated and reviewed (in-house, suppliers or consultant) work plans against defined project scope, contract requirements, budget and schedule. Assured <b>contract management</b> through constant follow up and supervisory.</li>
+        <li>Maintained <b>project budget files</b> and updated <b>cost tracking logs</b>.</li>
         <li>Coordinated the preparation of weekly and monthly reports related to future project requirements, workload forecasts, and performance measurement reporting. Optimised operational reporting to improve KPI analysis.</li>
-        <li>Presented monthly project updates to a larger team through Powerpoint, highlighting updated MS Project schedule and Excel cost tracking logs, upcoming action items, and any risks to schedule.</li>
+        <li>Presented monthly project updates to a larger team through <b>Powerpoint</b>, highlighting updated <b>MS Project schedule</b> and Excel cost tracking logs, upcoming action items, and any <b>risks to schedule</b>.</li>
       </ul>
     </div>
   </details>
@@ -147,8 +147,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Lead 4 weekly virtual classes for 40 incoming engineering students, covering the basics of chemistry.</li>
-        <li>Demonstrated professionalism, strong organisational skills, sound judgement,and worked independently.</li>
+        <li>Lead 4 weekly virtual classes for <b>40 incoming engineering students</b>, covering the basics of chemistry.</li>
+        <li>Demonstrated <b>professionalism, strong organisational skills, sound judgement,and worked independently</b>.</li>
       </ul>
     </div>
   </details>
@@ -184,7 +184,7 @@ layout: default
     <div class="text">
       <ul>
         <li>Supported the development of math skills for children from Preschool to High School.</li>
-        <li>Instructed one-on-one sessions for the higher advanced levels of the math program.</li>
+        <li>Instructed <b>one-on-one</b> sessions for the higher advanced levels of the math program.</li>
       </ul>
     </div>
   </details>
@@ -216,8 +216,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Lead 2 weekly virtual classes for 50 incoming engineering students, covering the basics of calculus and vectors.</li>
-        <li>Demonstrated professionalism, strong organisational skills, sound judgement,and worked independently.</li>
+        <li>Lead 2 weekly virtual classes for <b>50 incoming engineering students</b>, covering the basics of calculus and vectors.</li>
+        <li>Demonstrated <b>professionalism, strong organisational skills, sound judgement,and worked independently</b>.</li>
       </ul>
     </div>
   </details>
@@ -252,8 +252,8 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>Proposed the subway station construction project costing $800 million, scheduled to be completed in 1.5 years.</li>
-        <li>Lead a team of 4 to assess site characterization, problem definition, cost estimation, build timeline for station construction, create CAD drawings with dimensions that align with city standards, and use Plaxis 2D to model.</li>
+        <li>Proposed the subway station construction project costing <b>$800 million</b>, scheduled to be completed in <b>1.5 years</b>.</li>
+        <li>Lead a team of 4 to assess <b>site characterization, problem definition, cost estimation</b>, build timeline for <b>station construction</b>, create <b>CAD drawings</b> with dimensions that align with city standards, and use <b>Plaxis 2D</b> to model.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/ErindaleSubwayStation.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
@@ -286,7 +286,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>This report summarises the design procedure, layout, and analysis of municipal services for this development, all of which are in accordance with the Town of Adamsville Design Criteria and Standards Model.</li>
+        <li>This report summarises the <b>design procedure</b>, layout, and <b>analysis of municipal services</b> for this development, all of which are in accordance with the Town of Adamsville Design Criteria and Standards Model.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/AdmsvilleVillage_StormAndServices.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
@@ -320,7 +320,7 @@ layout: default
     </div>
     <div class="text">
       <ul>
-        <li>The report summarises the demand and capacity checks that were carried out to design a pedestrian bridge.</li>
+        <li>The report summarises the <b>demand and capacity checks</b> that were carried out to design a pedestrian bridge.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/stockMarketPrediction/stockMarketPrediction.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
@@ -355,7 +355,7 @@ layout: default
     <div class="text">
       <ul>
         <li>With a focus on construction engineering and management.</li>
-        <li>The project involves site planning, equipment selection and productivity, decision making, quantifying and cost estimating for earthwork, paving, lighting system, while adhering to all safety standards and all relevant constraints.</li>
+        <li>The project involves <b>site planning, equipment selection and productivity, decision making, quantifying and cost estimating</b> for earthwork, paving, lighting system, while adhering to all <b>safety standards</b> and all relevant constraints.</li>
         <li><a rel="noreferrer noopener" target="_blank" href="/InvasiveDuctalCarcinoma/APS360_IDC_Report.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
