@@ -257,7 +257,7 @@ layout: default
 <!-- Water -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="/recycleRight/RecylceRight.pdf"><img src="/assets/img/recycleRight.png" 
+    <a rel="noreferrer noopener" target="_blank" href="/recycleRight/RecylceRight.pdf"><img src="/assets/img/water.PNG" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -290,7 +290,7 @@ layout: default
 <!-- Reinforced concrete -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="/stockMarketPrediction/stockMarketPrediction.pdf"><img src="/assets/img/stockPred.png" 
+    <a rel="noreferrer noopener" target="_blank" href="/stockMarketPrediction/stockMarketPrediction.pdf"><img src="/assets/img/structural.PNG" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -324,7 +324,7 @@ layout: default
 <!-- Construction Eng -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="/InvasiveDuctalCarcinoma/APS360_IDC_Report.pdf"><img src="/assets/img/IDC.png" 
+    <a rel="noreferrer noopener" target="_blank" href="/InvasiveDuctalCarcinoma/APS360_IDC_Report.pdf"><img src="/assets/img/con_eng.PNG" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
