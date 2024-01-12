@@ -224,7 +224,7 @@ layout: default
 <!-- Design of Erindale Subway Station -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/FinalReport.pdf"><img src="/assets/img/BrainBlankAMI.png" 
+    <a rel="noreferrer noopener" target="_blank" href="/ErindaleSubwayStation.pdf"><img src="/assets/img/tunnel.PNG" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -247,7 +247,7 @@ layout: default
     <div class="text">
       <ul>
         <li>Lead a team of 4 to assess site characterization, problem definition, cost estimation, build timeline for station construction, create CAD drawings with dimensions that align with city standards, and use Plaxis 2D to model</li>
-        <li><a rel="noreferrer noopener" target="_blank" href="/AMI_BloodClotDetection/FinalReport.pdf"><b>View Project</b></a></li>
+        <li><a rel="noreferrer noopener" target="_blank" href="/ErindaleSubwayStation.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
   </details>
