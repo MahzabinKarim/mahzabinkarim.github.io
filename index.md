@@ -297,7 +297,7 @@ layout: default
 <!-- Reinforced concrete -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="/stockMarketPrediction/stockMarketPrediction.pdf"><img src="/assets/img/structural.PNG" 
+    <a rel="noreferrer noopener" target="_blank" href="/PedestrianBridge.pdf"><img src="/assets/img/structural.PNG" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -321,7 +321,7 @@ layout: default
     <div class="text">
       <ul>
         <li>The report summarises the <b>demand and capacity checks</b> that were carried out to design a pedestrian bridge.</li>
-        <li><a rel="noreferrer noopener" target="_blank" href="/stockMarketPrediction/stockMarketPrediction.pdf"><b>View Project</b></a></li>
+        <li><a rel="noreferrer noopener" target="_blank" href="/PedestrianBridge.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
   </details>
@@ -331,7 +331,7 @@ layout: default
 <!-- Construction Eng -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="/InvasiveDuctalCarcinoma/APS360_IDC_Report.pdf"><img src="/assets/img/con_eng.PNG" 
+    <a rel="noreferrer noopener" target="_blank" href="/MTO_ParkingLot.pdf"><img src="/assets/img/con_eng.PNG" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -356,7 +356,7 @@ layout: default
       <ul>
         <li>With a focus on construction engineering and management.</li>
         <li>The project involves <b>site planning, equipment selection and productivity, decision making, quantifying and cost estimating</b> for earthwork, paving, lighting system, while adhering to all <b>safety standards</b> and all relevant constraints.</li>
-        <li><a rel="noreferrer noopener" target="_blank" href="/InvasiveDuctalCarcinoma/APS360_IDC_Report.pdf"><b>View Project</b></a></li>
+        <li><a rel="noreferrer noopener" target="_blank" href="/MTO_ParkingLot.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
   </details>
