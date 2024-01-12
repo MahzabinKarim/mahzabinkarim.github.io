@@ -257,7 +257,7 @@ layout: default
 <!-- Water -->
 <div class="row">
   <div class="columnl">
-    <a rel="noreferrer noopener" target="_blank" href="/recycleRight/RecylceRight.pdf"><img src="/assets/img/water.PNG" 
+    <a rel="noreferrer noopener" target="_blank" href="/AdmsvilleVillage_StormAndServices.pdf"><img src="/assets/img/water.PNG" 
     class="thumbnail"/></a>
   </div>
   <details class="columnr">
@@ -280,7 +280,7 @@ layout: default
     <div class="text">
       <ul>
         <li>With a focus on construction engineering and management, the project focuses on site planning, equipement selection and productivity, and decision making. Involves quantifying and cost estimating for earthwork, paving, lighting system, while adhering to all safety standards.</li>
-        <li><a rel="noreferrer noopener" target="_blank" href="/recycleRight/RecylceRight.pdf"><b>View Project</b></a></li>
+        <li><a rel="noreferrer noopener" target="_blank" href="/AdmsvilleVillage_StormAndServices.pdf"><b>View Project</b></a></li>
       </ul>
     </div>
   </details>
