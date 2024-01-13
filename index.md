@@ -130,7 +130,7 @@ layout: default
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>UofT Engineering Outreach Office</h2>
+        <h2>UofT Engineering Outreach        Office</h2>
         <h3>Chemistry Academic Instructor</h3>
         <h4>May 2021 - August 2021</h4>
       </div>
@@ -199,7 +199,7 @@ layout: default
   <details class="columnr">
     <summary>
       <div class="innerl">
-        <h2>UofT Engineering Outreach Office</h2>
+        <h2>UofT Engineering Outreach         Office</h2>
         <h3>Math Academic Instructor</h3>
         <h4>June 2020 - August 2020</h4>
       </div>
